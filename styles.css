@@ -27,12 +27,12 @@ main {
 
 aside {
   flex-grow: 1;
-  margin-left: 10px;
+  margin-left: 2em;
 }
 
 article {
   flex-grow: 6;
-  padding-left: 20px;
+  padding-left: 3em;
 }
 
 ul {
