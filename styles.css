@@ -8,7 +8,7 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  flex-grow: 3;
+  flex-grow: 2;
 }
 
 a {
@@ -68,7 +68,7 @@ p {
 footer {
   background-color: darkgreen;
   color: white;
-  flex-grow: 2;
+  flex-grow: 1;
 }
 
 li.side {
